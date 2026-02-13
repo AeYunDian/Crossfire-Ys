@@ -1,0 +1,14 @@
+/Library/
+/Temp/
+/obj/
+/build/
+/Logs/
+/UserSettings/
+.vscode/
+.vs/
+.csproj
+.sln
+.pidb
+.booproj
+.user
+Thumbs.db

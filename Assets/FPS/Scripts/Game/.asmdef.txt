@@ -1,0 +1,6 @@
+{
+   "name": "crossfire",
+   "references": [
+       "Unity.TextMeshPro"
+   ]
+}
